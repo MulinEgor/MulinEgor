@@ -1,5 +1,5 @@
 ## 🚀 About me
-I am a beginner backend developer and python that is very passionate about his craft and always wants to imporve and learn something new
+I am a backend developer that is very passionate about his craft and always wants to imporve and learn something new
 
 ## 💻 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
