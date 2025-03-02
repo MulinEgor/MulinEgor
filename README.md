@@ -12,3 +12,9 @@ I am a beginner backend developer and python that is very passionate about his c
 
 ## 📫 How to connect with me
 - Telegram: @EgorBop
+
+## 📈 Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MulinEgor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=MulinEgor&theme=dark&hide_border=false)
